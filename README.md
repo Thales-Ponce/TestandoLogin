@@ -1,6 +1,6 @@
-Este projeto foi desenvolvido com o objetivo de praticar testes automatizados utilizando o framework Cypress. A aplicação testada foi o site Swag Labs, uma plataforma de e-commerce fictícia.
+# Este projeto foi desenvolvido com o objetivo de praticar testes automatizados utilizando o framework Cypress. A aplicação testada foi o site Swag Labs, uma plataforma de e-commerce fictícia.
 
-Os testes criados validam os seguintes cenários principais:
+## Os testes criados validam os seguintes cenários principais:
 
 ✅ Login com credenciais válidas
 
